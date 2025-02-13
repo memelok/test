@@ -1,2 +1,1 @@
-print("hello")
-print("hehehe")
+print("this is 1 commit")
