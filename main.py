@@ -3,3 +3,5 @@ print("mainmainmain")
 print("modul 1")
 
 print("mememel")
+
+print("gitclone")
